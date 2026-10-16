@@ -42,3 +42,10 @@ PLAT_COMMANDE(**id_platcommande**,#id_commande,#id_plat,quantite)
 
 *Reponse:*
 _dans la table plat_commande
+
+## Etape 4 - Les habitues
+---
+
+*Travail. Ajoutez les clients et rattachez-les aux commandes. Vérification : liste des commandes avec le nom du client, en affichant « client de passage » quand il n'y en a pas.*
+
+### schema relationnel:
